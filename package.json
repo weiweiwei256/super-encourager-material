@@ -1,0 +1,8 @@
+{
+  "name": "super-encoureage-material",
+  "version": "1.0.0",
+  "description": "为vscode插件'超级鼓励师'提供素材",
+  "author": "RUNNERUP",
+  "license": "MIT",
+  "private": false
+}
