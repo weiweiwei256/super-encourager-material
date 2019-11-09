@@ -1,8 +1,11 @@
 {
-  "name": "super-encoureage-material",
-  "version": "1.0.0",
-  "description": "为vscode插件'超级鼓励师'提供素材",
-  "author": "RUNNERUP",
-  "license": "MIT",
-  "private": false
+    "name": "super-encoureage-material",
+    "version": "1.0.0",
+    "description": "为vscode插件'超级鼓励师'提供素材",
+    "author": "RUNNERUP",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "pub": "rm -r ../super-encourager/resources/entertainment && cp -r ./entertainment/ ../super-encourager/resources/entertainment"
+    }
 }
