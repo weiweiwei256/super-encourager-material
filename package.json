@@ -6,6 +6,6 @@
     "license": "MIT",
     "private": false,
     "scripts": {
-        "pub": "rm -r ../super-encourager/resources/entertainment && cp -r ./entertainment/ ../super-encourager/resources/entertainment"
+        "pub": "rm -r ../super-encourager/src/resources/entertainment && cp -r ./entertainment/ ../super-encourager/resources/entertainment"
     }
 }
